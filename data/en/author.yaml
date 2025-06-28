@@ -1,0 +1,12 @@
+# some information about you
+name: "Zarah Janda"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "zarah.jandal@gmail.com"
+  github: ZarahJanda
+
+# some summary about what you do
+summary:
+  - I am a Scientist
+  - I am a Biologist
+  - I am a Ecologist

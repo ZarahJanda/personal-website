@@ -60,7 +60,7 @@
     "postcss-cli": "^11.0.0"
   },
   "scripts": {
-    "start": "hugo server -w"
+    "start": "hugo server -w --baseURL=http://localhost:1313/"
   },
   "name": "personal-website",
   "version": "0.1.0"

@@ -2,7 +2,6 @@
 baseURL: 'https://zarahjanda.github.io/personal-website/'
 languageCode: 'en-us'
 title: 'Zarah Janda'
-theme: ''
 
 # Use Hugo modules to add theme
 module:

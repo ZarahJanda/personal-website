@@ -60,7 +60,10 @@
     "postcss-cli": "^11.0.0"
   },
   "scripts": {
-    "start": "hugo server -w --baseURL=http://localhost:1313/"
+    "start": "hugo server --watch --baseURL=http://localhost:1313/ --bind=127.0.0.1 --port=1313",
+    "serve-win": "hugo server --watch --baseURL=\"http://localhost:1313/\" --bind=\"127.0.0.1\" --port=1313 --disableFastRender",
+    "build": "hugo --gc --minify",
+    "clean": "hugo mod clean"
   },
   "name": "personal-website",
   "version": "0.1.0"

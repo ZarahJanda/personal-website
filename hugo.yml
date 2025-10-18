@@ -3,6 +3,13 @@ baseURL: 'https://zarahjanda.github.io/personal-website/'
 languageCode: 'en-us'
 title: 'Zarah Janda'
 
+# Development server configuration
+server:
+  headers:
+    - for: '/**'
+      values:
+        Referrer-Policy: 'strict-origin-when-cross-origin'
+
 # Use Hugo modules to add theme
 module:
   imports:

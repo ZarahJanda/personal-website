@@ -23,6 +23,9 @@ caches:
 params:
   # GitHub repo URL of your site
   gitRepo: https://github.com/ZarahJanda/personal-website
+  background: "images/ZJ_background.jpeg"
+# Optional, for a different background image in dark mode
+  darkBackground: "images/ZJ_background.jpeg"
 
   features:
     # Enable portfolio section

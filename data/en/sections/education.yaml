@@ -7,32 +7,107 @@ section:
   weight: 4
   showOnNavbar: true
   # Can optionally hide the title in sections
-  # hideTitle: true
+  # hideTitle: true  
 degrees:
-- name: Master of Science in Molecular Biosciences
-  icon: fa-microscope
+- name: PhD in the Jena Experiment and Associate PhD in ECO-N
+  icon: fa-university
+  timeframe: since 2024
+  institution:
+    name: Leipzig University
+    url: "https://www.lw.uni-leipzig.de/en"
+  extracurricularActivities: #(optional)
+  - Main Coordinator of the Symposium 'Science TBD' - Organisation of an interdisciplinary symposium at iDiv in March 2026
+  - CO2e emissions Assessment of PhD Project - Calculation and analysis of the total CO2e emissions generated thoughout my PhD, including travels, fieldwork and lab activities. The results will be published alongside my dissertation to quantify the environmental impact of my research and propose straegies for emission reduction.
+  - Sustainable Development Course - Completed the lecture series in 2024 and gave a guest lecture in Ocotber 2025 on 'Sustainability and One Health' focusing on the links between ecological integrity, human health and sustainable practices.
+  - iDiv PhD Representative - PhD Meeting coordination, Code of Conduct, Supervision at iDiv
+  - Jena Experiment PhD Representative - PhD meeting coordination, communiation with Principle Investigators
+  customSections: #(optional)
+    - name: Work Package 1 - Long-term Soil Multistability
+      content: Investigation of the long-term effects of plant species richness on microbial biomass within a grassland experiment. Focus on long-term stability, resistance and recovery from climate extremes.
+    - name: Work Package 2 - Soil multresistance and multirecovery along a stress gradient
+      content: Examination of plant species diversity on multisple soil functions within a controlled greenhouse experiment simulating a water-stress gradient.
+    - name: Work Package 3 - Intra- and Inter-annual soil multistability
+      content: Study of plant species richness effects on the seasonal stability of multisple soil functions within the Jena Experiment.
+- name: Interdisciplinary Marsilius Studies
+  icon: fa-graduation-cap
   timeframe: 2020-2023
   institution:
     name: Heidelberg University
-    url: "https://www.uni-heidelberg.de/de"
+    url: "https://www.marsilius-kolleg.uni-heidelberg.de/en/study/marsilius-studies"
     #logo: /images/education/college.png # Path of the logo image
     #darkLogo: /images/education/college-dark.png #(optional), Can optionally show a different logo for dark theme
-  grade: #(optional)
-    #scale: CGPA
-    achieved: 1.2
-    #outOf: 4
-  # publications: #(optional)
- # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
- #   url: "#"
- # - title: Fusce eu augue ut odio porttitor pulvinar.
- #   url: "#"
- # - title: Nullam vitae orci tincidunt purus viverra pulvinar.
-  #  url: "#"
-  extracurricularActivities: #(optional), supports markdown
-  - Interdisciplinary Marsilius Studies
-  - Freelance editor, Heidelberg student newspaper "ruprecht"
-  #custonSections: #(optional)
-   # - name: Thesis
-   #   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    #- name: Supervisor
-    #  content: Fusce eu augue ut odio porttitor pulvinar.
+  customSections: #(optional)
+    - name: Bridge Seminar
+      content: Rethinking Environment
+    - name: Bridge Seminar
+      content: Body Environment
+    - name: Bridge Seminar
+      content: From Models to Politic- The Role of Simulations in Climate Change Decision Making
+    - name: Bridge Seminar
+      content: Innovation for Future? Potentialand Pitfalls of the Circular Bioeconomy  
+    - name: Colloquium
+      content: Model organism human - human tissue samples in biomedical research    
+- name: Master Molecular Biosciences, Major Molecular and Cellular Biology
+  icon: fa-graduation-cap
+  timeframe: 2020-2023
+  institution:
+    name: Heidelberg University
+    url: "https://www.uni-heidelberg.de/en/study/all-subjects/molecular-biosciences/molecular-biosciences-master"
+    #logo: /images/education/college.png # Path of the logo image
+    #darkLogo: /images/education/college-dark.png #(optional), Can optionally show a different logo for dark theme
+  grade:
+    scale: Master of Science (1.2)
+    achieved: 120
+    outOf: 120 CP
+  customSections: #(optional)
+    - name: Internship at Center for Integrative Infectious Diseases, Heidelberg, Germany
+      content: Electron microscopy of the ookinete of Plasmodium falciparum.
+    - name: Internship at Institute Imagine, Paris, France
+      content: The genetic basis for infectious disease susceptibility -Molecular phenotyping of triplets with the same mutation
+    - name: Internship at Center for Organismal Studies, Heidelberg, Germany
+      content: Investigation of the effects of conventionel and ecological agriculture on biodiversity - Analysis of questionnaires and field data of crop fields in Baden-Wurttemberg.
+    - name: Master Thesis at Institute for Human Genetics, Heidelberg University Hospital, Heidelberg, Germany
+      content: Establishment of a Bipartite Workflow for the Assessment of Molecular Anomalies in Patients with Inflammatory Bowel Disease with Focus on the Enteric Nervous System, the Immune System and Their Interconnection.
+  extracurricularActivities: #(optional)
+  - Student Newspaper 'ruprecht' - Freelance editor
+  - Event organisation 'Sustainability in Science' - Member of the organising team of the student symposium in the funding and speaker resort.
+- name: Bachelor Applied Biology
+  icon: fa-graduation-cap
+  timeframe: 2016-2020
+  institution:
+    name: KIT - Karlsruhe Institute of Technology
+    url: "https://biologie.chem-bio.kit.edu/english/57.php"
+    #logo: /images/education/college.png # Path of the logo image
+    #darkLogo: /images/education/college-dark.png #(optional), Can optionally show a different logo for dark theme
+  grade:
+    scale: Bachelor of Science (1.2)
+    achieved: 192
+    outOf: 180 CP
+  customSections: #(optional)
+    - name: Internship at Max Planck Institute for Marine Microbiology, Bremen, Germany
+      content: Seasonal abundance changes of bacterial key taxa involved in the polysaccharide uptake off Helgoland.
+    - name: Bachelor Thesis at Max-Rubner-Institute for Nutrition, Karlsruhe, Germany
+      content: Quantification of the intestinal human microbiome using Spike-in Bacteria - A comparative analysis of fibre intake and biological sex.
+  extracurricularActivities: #(optional)
+  - Event Organisation 'The Future of Bioeconomy' - Member of the organisation team and moderation of the Panel Discussion
+  - Drama Club GeistSozTheater - The Midsummer Night's Dream, Fahrenheit 451
+  - Drama Club PhysikerTheater - The Wonderful World of Dissocia
+- name: Bachelor Chemical Biology
+  icon: fa-microscope
+  timeframe: 2014-2015
+  institution:
+    name: KIT - Karlsruhe Institute of Technology
+    url: "https://www.sle.kit.edu/english/vorstudium/bachelor-chemical-biology.php"
+    #logo: /images/education/college.png # Path of the logo image
+    #darkLogo: /images/education/college-dark.png #(optional), Can optionally show a different logo for dark theme
+  extracurricularActivities: #(optional)
+  - Drama Club UniTheater - Rope
+- name: A-levels
+  icon: fa-school
+  timeframe: 2004-2013
+  institution:
+    name: Albert-Schweitzer-Gymnasium Kaiserslautern
+    url: "http://www.asgkl.de/"
+  extracurricularActivities: #(optional)
+  - Drama Club
+  - School Choir

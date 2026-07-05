@@ -12,71 +12,354 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: "Machine Learning"
-  filter: "machinelearning"
-- name: "Image Processing"
-  filter: "image-processing"
-- name: Security
-  filter: "security"
+- name: "Soil Ecology"
+  filter: "SoilEcology"
+- name: "Molecular Biology"
+  filter: "MolecularBiology"
+- name: Open Science
+  filter: "OpenScience"
+- name: Free Text
+  filter: "FreeText"  
 
 # your publications
 publications:
-- title: An Example Paper on Machine Learning
+- title: Somatic deficiency of the human E3 ubiquitin ligase CBL in leukocytes impairs B cell but not T cell development and function
   publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
+    name: Nature Immunology
+    date: 15 January 2026
+    url: https://doi.org/10.1038/s41590-025-02381-7
   authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
+  - name: Taja Vatovec
+  - name: Anna-Lena Neehus
+  - name: Jean-Laurent Casanova
+  - name: Jonathan Bohlen
+    url: https://orcid.org/0000-0003-0458-9484
+  - name: et al.
   paper:
-    summary: Voluptate in id id voluptate laboris. Minim mollit aliquip sit aliqua ut exercitation voluptate eiusmod consequat pariatur sunt enim veniam. Velit esse tempor laboris anim tempor officia. Magna non labore duis do esse sit do ipsum culpa. Officia consequat id non duis culpa dolor. Excepteur magna non nostrud cupidatat aute aliqua aliquip.
-    url: https://example.com
-  categories: ["machinelearning","image-processing"]
-  tags: ["Machine Learning", "Autonomous Driving", "Computer Vision"]
+    summary: This study examines individuals who carry somatic, leukocyte-specific loss-of-function variants in the E3 ubiquitin ligase CBL.
+    url: https://doi.org/10.1038/s41590-025-02381-7
+  categories: ["MolecularBiology"]
+  tags: ["Immunology", "B Cells", "Ubiquitin Ligase", "Inborn Errors of Immunity"]
+- title: Human MCTS1-dependent translation of JAK2 is essential for IFN-γ immunity to mycobacteria
+  publishedIn:
+    name: Cell
+    date: 23 October 2023
+    url: https://www.cell.com/cell/fulltext/S0092-8674(23)01078-4
+  authors:
+  - name: Jonathan Bohlen
+    url: https://orcid.org/0000-0003-0458-9484
+  - name: Qinhua Zhou
+  - name: Quentin Philippot
+  - name: Zarah Janda
+    url: https://orcid.org/0009-0006-4784-0324
+  - name: et al.
+  - name: Jean-Laurent Casanova
+  paper:
+    summary: Severe mycobacterial disease can arise from inherited defects in interferon-gamma immunity. This study identifies X-linked MCTS1 deficiency in men from several countries whose translation re-initiation factor is completely lost, which selectively impairs production of the kinase JAK2 across cell types. 
+    url: https://doi.org/10.1016/j.cell.2023.09.024
+  categories: ["MolecularBiology"]
+  tags: ["Immunology", "Genetics", "JAK2", "Mycobacteria", "Inborn Errors of Immunity"]
 
-- title: An Sample Paper on Image Processing
+- title: Autoinflammation in patients with leukocytic CBL loss of heterozygosity is caused by constitutive ERK-mediated monocyte activation
   publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
+    name: The Journal of Clinical Investigation
+    date: 16 October 2024
+    url: https://www.jci.org/articles/view/181604
   authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
+  - name: Jonathan Bohlen
+    url: https://orcid.org/0000-0003-0458-9484
+  - name: Ivan Bagarić
+  - name: Taja Vatovec
+  - name: Zarah Janda
+    url: https://orcid.org/0009-0006-4784-0324
+  - name: et al.
+  - name: Jean-Laurent Casanova
+  - name: Jacinta Bustamante
   paper:
-    summary: Ullamco magna minim cupidatat Lorem ea ex aliqua fugiat et. Dolor quis cillum ea duis irure et commodo aliquip consectetur ullamco labore ut anim nisi. Commodo reprehenderit est consectetur tempor adipisicing occaecat exercitation amet do aliquip dolor do irure. Labore officia ut magna pariatur reprehenderit et ex sit sunt. Magna proident ullamco adipisicing sit.
-    url: https://example.com
-  categories: ["image-processing"]
-  tags: ["Image Processing", "Computer Vision"]
+    summary: This study investigates patients carrying a leukocyte-restricted loss of heterozygosity affecting CBL, an E3 ubiquitin ligase, who present with autoinflammatory disease. 
+  categories: ["MolecularBiology"]
+  tags: ["Immunology", "Autoinflammation", "CBL", "ERK Signaling", "Monocytes"]
 
-- title: An Example Paper on Security
+- title: Plant diversity effects on soil multistability
   publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
+    name: Research Ideas and Outcomes
+    date: 30 May 2024
+    url: https://doi.org/10.3897/rio.10.e127123
   authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
+  - name: Nico Eisenhauer
+  - name: Cordula Vogel
+  - name: Luiz A. Domeignoz Horta
+  - name: Ana Elizabeth Bonato Asato
+  - name: Zarah Janda
+    url: https://orcid.org/0009-0006-4784-0324
+  - name: Simone Cesarz
   paper:
-    summary: Dolor ad cupidatat pariatur nulla ipsum ex ullamco nisi anim ullamco. Dolore elit esse in exercitation minim aliqua. Amet velit incididunt magna laboris. Proident reprehenderit deserunt ad officia duis dolor. Tempor nostrud ullamco ullamco sint deserunt cupidatat irure minim consectetur nulla adipisicing sunt.
-    url: https://example.com
-  categories: ["security"]
-  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+    summary: This was the grant proposal of my PhD Project. It includes all work packages that I am working on their setup and what I will analyse.
+    url: https://doi.org/10.3897/rio.10.e127123
+  categories: ["SoilEcology"]
+  tags: ["Soil Ecology", "Plant Diversity", "Ecosystem Stability", "Jena Experiment", "Climate Extremes"]
+
+- title: Gedankenbrücken
+  publishedIn:
+    name: Forum Marsilius-Kolleg, Vol. 24
+    date: "2024"
+    url: https://doi.org/10.11588/fmk.2024.24.103682
+  authors:
+  - name: Zarah Janda
+    url: https://orcid.org/0009-0006-4784-0324
+  paper:
+    summay: I wrote this essay after completing the Marsilius Studies in Heidelberg on why I engaged in this additional study programme.
+    url: https://journals.ub.uni-heidelberg.de/index.php/forum-mk/article/download/103682/98977
+  categories: ["OpenScience"]
+  tags: ["Free Text", "Interdisciplinarity"]
+- title: Ölkonzerne, die das Klima retten sollen
+  publishedIn:
+    name: ruprecht
+    date: 7 March 2023
+    url: https://www.ruprecht.de/2023/03/07/oelkonzerne-die-das-klima-retten-sollen/
+  authors:
+  - name: Zarah Janda
+    url: https://www.ruprecht.de/author/zarah-janda/
+  paper:
+    summary: ""
+    url: https://www.ruprecht.de/2023/03/07/oelkonzerne-die-das-klima-retten-sollen/
+  categories: ["FreeText"]
+  tags: []
+
+- title: "Grundrecht oder Mord?"
+  publishedIn:
+    name: ruprecht
+    date: 20 August 2022
+    url: https://www.ruprecht.de/2022/08/20/grundrecht-oder-mord/
+  authors:
+  - name: Zarah Janda
+    url: https://www.ruprecht.de/author/zarah-janda/
+  paper:
+    summary: ""
+    url: https://www.ruprecht.de/2022/08/20/grundrecht-oder-mord/
+  categories: ["FreeText"]
+  tags: []
+
+- title: Flott oder lieber langsam?
+  publishedIn:
+    name: ruprecht
+    date: 10 July 2022
+    url: https://www.ruprecht.de/2022/07/10/flott-oder-lieber-langsam/
+  authors:
+  - name: Zarah Janda
+    url: https://www.ruprecht.de/author/zarah-janda/
+  paper:
+    summary: ""
+    url: https://www.ruprecht.de/2022/07/10/flott-oder-lieber-langsam/
+  categories: ["FreeText"]
+  tags: []
+
+- title: "Pro/Contra: Menstruationsurlaub?"
+  publishedIn:
+    name: ruprecht
+    date: 2 July 2022
+    url: https://www.ruprecht.de/2022/07/02/pro-contra-menstruationsurlaub/
+  authors:
+  - name: Zarah Janda
+    url: https://www.ruprecht.de/author/zarah-janda/
+  paper:
+    summary: ""
+    url: https://www.ruprecht.de/2022/07/02/pro-contra-menstruationsurlaub/
+  categories: ["FreeText"]
+  tags: []
+
+- title: Gefahr im Getränk
+  publishedIn:
+    name: ruprecht
+    date: 22 June 2022
+    url: https://www.ruprecht.de/2022/06/22/gefahr-im-getraenk/
+  authors:
+  - name: Zarah Janda
+    url: https://www.ruprecht.de/author/zarah-janda/
+  paper:
+    summary: ""
+    url: https://www.ruprecht.de/2022/06/22/gefahr-im-getraenk/
+  categories: ["FreeText"]
+  tags: []
+
+- title: "…und raus bist du!"
+  publishedIn:
+    name: ruprecht
+    date: 30 May 2022
+    url: https://www.ruprecht.de/2022/05/30/ich-bin-hanna/
+  authors:
+  - name: Zarah Janda
+    url: https://www.ruprecht.de/author/zarah-janda/
+  paper:
+    summary: ""
+    url: https://www.ruprecht.de/2022/05/30/ich-bin-hanna/
+  categories: ["FreeText"]
+  tags: []
+
+- title: Wettrennen ohne Sieger
+  publishedIn:
+    name: ruprecht
+    date: 25 May 2022
+    url: https://www.ruprecht.de/2022/05/25/wettrennen-ohne-sieger/
+  authors:
+  - name: Zarah Janda
+    url: https://www.ruprecht.de/author/zarah-janda/
+  paper:
+    summary: ""
+    url: https://www.ruprecht.de/2022/05/25/wettrennen-ohne-sieger/
+  categories: ["FreeText"]
+  tags: []
+
+- title: Science, responsibility and the climate crisis
+  publishedIn:
+    name: ruprecht
+    date: 28 March 2022
+    url: https://www.ruprecht.de/2022/03/28/science-responsibility-and-the-climate-crisis/
+  authors:
+  - name: Zarah Janda
+    url: https://www.ruprecht.de/author/zarah-janda/
+  paper:
+    summary: ""
+    url: https://www.ruprecht.de/2022/03/28/science-responsibility-and-the-climate-crisis/
+  categories: ["FreeText"]
+  tags: []
+
+- title: Voyeurismus und Body Positivity von Dürer bis Lizzo
+  publishedIn:
+    name: ruprecht
+    date: 7 February 2022
+    url: https://www.ruprecht.de/2022/02/07/voyeurismus-und-body-positivity-von-duerer-bis-lizzo/
+  authors:
+  - name: Zarah Janda
+    url: https://www.ruprecht.de/author/zarah-janda/
+  paper:
+    summary: ""
+    url: https://www.ruprecht.de/2022/02/07/voyeurismus-und-body-positivity-von-duerer-bis-lizzo/
+  categories: ["FreeText"]
+  tags: []
+
+- title: "„Es ist vorbei“"
+  publishedIn:
+    name: ruprecht
+    date: 1 February 2022
+    url: https://www.ruprecht.de/2022/02/01/es-ist-vorbei/
+  authors:
+  - name: Zarah Janda
+    url: https://www.ruprecht.de/author/zarah-janda/
+  paper:
+    summary: ""
+    url: https://www.ruprecht.de/2022/02/01/es-ist-vorbei/
+  categories: ["FreeText"]
+  tags: []
+
+- title: "„Für die Zukunft will ich säen“"
+  publishedIn:
+    name: ruprecht
+    date: 30 December 2021
+    url: https://www.ruprecht.de/2021/12/30/fuer-die-zukunft-will-ich-saeen/
+  authors:
+  - name: Zarah Janda
+    url: https://www.ruprecht.de/author/zarah-janda/
+  paper:
+    summary: ""
+    url: https://www.ruprecht.de/2021/12/30/fuer-die-zukunft-will-ich-saeen/
+  categories: ["FreeText"]
+  tags: []
+
+- title: "Herdentiere und Individualist:innen"
+  publishedIn:
+    name: ruprecht
+    date: 16 December 2021
+    url: https://www.ruprecht.de/2021/12/16/herdentiere-und-individualistinnen/
+  authors:
+  - name: Zarah Janda
+    url: https://www.ruprecht.de/author/zarah-janda/
+  paper:
+    summary: ""
+    url: https://www.ruprecht.de/2021/12/16/herdentiere-und-individualistinnen/
+  categories: ["FreeText"]
+  tags: []
+
+- title: Die Heidelberger Pockenepidemie
+  publishedIn:
+    name: ruprecht
+    date: 31 May 2021
+    url: https://www.ruprecht.de/2021/05/31/die-heidelberger-pockenepidemie/
+  authors:
+  - name: Zarah Janda
+    url: https://www.ruprecht.de/author/zarah-janda/
+  paper:
+    summary: ""
+    url: https://www.ruprecht.de/2021/05/31/die-heidelberger-pockenepidemie/
+  categories: ["FreeText"]
+  tags: []
+
+- title: "Vom Umdrehen des „Ja, aber“"
+  publishedIn:
+    name: ruprecht
+    date: 19 May 2021
+    url: https://www.ruprecht.de/2021/05/19/vom-umdrehen-des-ja-aber/
+  authors:
+  - name: Zarah Janda
+    url: https://www.ruprecht.de/author/zarah-janda/
+  paper:
+    summary: ""
+    url: https://www.ruprecht.de/2021/05/19/vom-umdrehen-des-ja-aber/
+  categories: ["FreeText"]
+  tags: []
+
+- title: Von Bauern, Kühen und Pocken
+  publishedIn:
+    name: ruprecht
+    date: 5 March 2021
+    url: https://www.ruprecht.de/2021/03/05/von-bauern-kuehen-und-pocken/
+  authors:
+  - name: Zarah Janda
+    url: https://www.ruprecht.de/author/zarah-janda/
+  paper:
+    summary: ""
+    url: https://www.ruprecht.de/2021/03/05/von-bauern-kuehen-und-pocken/
+  categories: ["FreeText"]
+  tags: []
+
+- title: Nichts mehr auszusetzen?
+  publishedIn:
+    name: ruprecht
+    date: 31 January 2021
+    url: https://www.ruprecht.de/2021/01/31/nichts-mehr-auszusetzen/
+  authors:
+  - name: Zarah Janda
+    url: https://www.ruprecht.de/author/zarah-janda/
+  paper:
+    summary: ""
+    url: https://www.ruprecht.de/2021/01/31/nichts-mehr-auszusetzen/
+  categories: ["FreeText"]
+  tags: []
+
+- title: "(Um-)Denken in Zeiten einer Pandemie"
+  publishedIn:
+    name: ruprecht
+    date: 26 January 2021
+    url: https://www.ruprecht.de/2021/01/26/um-denken-in-zeiten-einer-pandemie/
+  authors:
+  - name: Zarah Janda
+    url: https://www.ruprecht.de/author/zarah-janda/
+  paper:
+    summary: ""
+    url: https://www.ruprecht.de/2021/01/26/um-denken-in-zeiten-einer-pandemie/
+  categories: ["FreeText"]
+  tags: []
+
+- title: Wie ist das jetzt mit mRNA-Impfstoffen?
+  publishedIn:
+    name: ruprecht
+    date: 26 January 2021
+    url: https://www.ruprecht.de/2021/01/26/wie-ist-das-jetzt-mit-mrna-impfstoffen/
+  authors:
+  - name: Zarah Janda
+    url: https://www.ruprecht.de/author/zarah-janda/
+  paper:
+    summary: ""
+    url: https://www.ruprecht.de/2021/01/26/wie-ist-das-jetzt-mit-mrna-impfstoffen/
+  categories: ["FreeText"]
+  tags: []  

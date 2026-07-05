@@ -9,28 +9,83 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    logo: /images/experiences/company.png
-    darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    name: German Centre for Integrative Biodiversity Research Halle-Jena-Leipzig – iDiv
+    url: "https://www.idiv.de/"
+    location: Leipzig, Germany
+    #logo: /images/experiences/company.png
+    #darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: The German Centre for Integrative Biodiversity Research – iDiv is focused on understanding the variety of life on earth. We measure and monitor how this diversity is changing, and how it affects ecosystem functioning and services.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Doctoral Researcher
+    start: April 2024
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
+    - Fieldwork - taking soil samples at the Jena Experiment field side
+    - Laboratory Measurments - analysis of soil samples, e.g. percentage of waterstable aggregates, soil microbial biomass, basal respiration and the activity of hydrolytic enzymes
+    - Data Analysis - statistical analysis of measurements to identify the effect of plant species richness on several measures
+- company:
+    name: Climate Protection Management
+    url: "https://www.uni-heidelberg.de/en/employees-in-science-administration-and-technical-services/service-a-z/project-office-energy-climate-protection-sustainability/climate-protection-concept"
+    location: Heidelberg University
+    #logo: /images/experiences/company.png
+    #darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview: Heidelberg University supports the climate policy activities of the state of Baden-Württemberg and pursues the goal of achieving net greenhouse gas neutrality by 2040 through gradual reduction measures.
+  positions:
+  - designation: Student Assistant
+    start: Oct 2022
+    end: Feb 2024
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Development of a 'Sustainability of Science' concept
+    - Assistance in the preparation of the greenhouse gas balance
+    - Development of a website using R
+- company:
+    name: National Centre for Tumour Diseases
+    url: "https://www.nct-heidelberg.de/en/index.html"
+    location: Heidelberg
+    #logo: /images/experiences/company.png
+    #darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview: The National Center for Tumor Diseases (NCT) Heidelberg is a joint institution of the German Cancer Research Center (DKFZ), the University Hospital Heidelberg (UKHD), the Heidelberg Medical Faculty of the Heidelberg University and the Thoraxklinik Heidelberg. German Cancer Aid (Deutsche Krebshilfe) funds the NCT as an Oncological Center of Excellence.
+  positions:
+  - designation: Student Assistant
+    start: Oct 2021
+    end: Sep 2022
+    responsibilities:
+    - Fundraising for the calls for donations against cancer
+    - Communication with sponsors and donors
+    - Organisation of the NCT run
+- company:
+    name: Self Learning Center of the Distance and Independent Studies Center
+    url: "https://fernstudium.rptu.de/en"
+    location: Technical University Kaiserslautern
+    #logo: /images/experiences/company.png
+    #darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview: The Distance and Independent Studies Center offers more than 20 Master's and certificate distance learning programmes which allow you to continue your education while working – in most cases even without a first university degree.
+  positions:
+  - designation: Student Assistant
+    start: July 2020
+    end: Dec 2020
+    responsibilities:
+    - Support in teaching activities and the organisation of the Diemersteiner Self-Learning Days 
+    - Creation of (digital) teaching materials
+    - Summarization of non-specialist literaure
+- company:
+    name: Student Tutoring
+    #url: "https://fernstudium.rptu.de/en"
+    location: Kaiserslautern/Karlsruhe
+    #logo: /images/experiences/company.png
+    #darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview: 
+  positions:
+  - designation: Tutor
+    start: 2009
+    end:  2020
+    responsibilities:
+    - Support for students at all levels
+    - Focus on English, Mathematics, Biology, Chemistry and German

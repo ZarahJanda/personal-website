@@ -23,15 +23,22 @@ projects:
   logo: /images/sections/projects/ScienceTBD.jpg
   role: Main Coordinator
   timeline: "March 2025 - March 2026"
-  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "https://conference.idiv.de/event/4/overview"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Organisation of an interdisciplinary symposium on open science.
   tags: ["academic", "open science", "science fraud"]
-- name: Best Reseatch Environment Prize
+- name: Best Research Environment Prize
   #logo: /images/sections/projects/ScienceTBD.jpg
   role: Jury Member
   timeline: "Jan 2026 - June 2026"
   #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "https://www.diejungeakademie.de/en/projekte/best-research-environment-award"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Assessment of applications in regards of impact, novelty and innovation.
+  summary: The year before, my research group won the prize for the Best Research Environment. For the next round, I was asked whether I would be interested t join the jury- which I was! My task included the assessment of the applications in regard of impact, novelty and innovation.
   tags: ["academic", "research", "prize"]
+- name: FirstGen Academics Network
+  #logo: /images/sections/projects/ScienceTBD.jpg
+  role: Jury Member
+  timeline: "Jan 2026 - June 2026"
+  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://www.mathcs.uni-leipzig.de/en/newsdetail-3/event/lunchtreffen-firstgen-academics-network-20260806"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: For the Women in Science Day 2026, three colleagues and I organised a workshop on being the first one in your family to attend a ujiversity. Out of this workshop we founded a network at Uni Leipzig with a lunch meet-up every month. We plan to expand this to workshops and seminar on this important but underrepresented topic.
+  tags: ["academic", "FirstGen Academics", "network"]

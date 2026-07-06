@@ -102,7 +102,7 @@ publications:
 - title: Gedankenbrücken
   publishedIn:
     name: Forum Marsilius-Kolleg, Vol. 24
-    date: "2024"
+    date: 2024
     url: https://doi.org/10.11588/fmk.2024.24.103682
   authors:
   - name: Zarah Janda
@@ -118,24 +118,27 @@ publications:
     date: 7 March 2023
     url: https://www.ruprecht.de/2023/03/07/oelkonzerne-die-das-klima-retten-sollen/
   authors:
+  - name: Pauline Seubert
+  - name: Til Gonsor
   - name: Zarah Janda
     url: https://www.ruprecht.de/author/zarah-janda/
   paper:
-    summary: ""
+    summary: An interview with a Fridays For Future Activist about the COP and its connection to fossil fuels.
     url: https://www.ruprecht.de/2023/03/07/oelkonzerne-die-das-klima-retten-sollen/
   categories: ["FreeText"]
-  tags: []
+  tags: ["Climate Extrenes", "COP"]
 
-- title: "Grundrecht oder Mord?"
+- title: Grundrecht oder Mord?
   publishedIn:
     name: ruprecht
     date: 20 August 2022
     url: https://www.ruprecht.de/2022/08/20/grundrecht-oder-mord/
   authors:
+  - name: Lucie Bähre
   - name: Zarah Janda
     url: https://www.ruprecht.de/author/zarah-janda/
   paper:
-    summary: ""
+    summary: A text about the Supreme Court Decision to abolish Roe vs. Wade and further consequences.
     url: https://www.ruprecht.de/2022/08/20/grundrecht-oder-mord/
   categories: ["FreeText"]
   tags: []
@@ -149,12 +152,12 @@ publications:
   - name: Zarah Janda
     url: https://www.ruprecht.de/author/zarah-janda/
   paper:
-    summary: ""
+    summary: Fast Fashion or Second Hand - how to slow down fashion.
     url: https://www.ruprecht.de/2022/07/10/flott-oder-lieber-langsam/
   categories: ["FreeText"]
   tags: []
 
-- title: "Pro/Contra: Menstruationsurlaub?"
+- title: Pro/Contra: Menstruationsurlaub?
   publishedIn:
     name: ruprecht
     date: 2 July 2022
@@ -163,7 +166,7 @@ publications:
   - name: Zarah Janda
     url: https://www.ruprecht.de/author/zarah-janda/
   paper:
-    summary: ""
+    summary: Pro/Contra Additional Vacation for people who menstruate.
     url: https://www.ruprecht.de/2022/07/02/pro-contra-menstruationsurlaub/
   categories: ["FreeText"]
   tags: []
@@ -177,21 +180,24 @@ publications:
   - name: Zarah Janda
     url: https://www.ruprecht.de/author/zarah-janda/
   paper:
-    summary: ""
+    summary: In Spring 2022, a student in Heidelberg had knockout drops slipped into her drink. How to protect yourself and where to find help if you’ve been affected.
     url: https://www.ruprecht.de/2022/06/22/gefahr-im-getraenk/
   categories: ["FreeText"]
   tags: []
 
-- title: "…und raus bist du!"
+- title: …und raus bist du!
   publishedIn:
     name: ruprecht
     date: 30 May 2022
     url: https://www.ruprecht.de/2022/05/30/ich-bin-hanna/
   authors:
+  - name: Louise Kluge
+  - name: Lena Springfeld
+  - name: Til Gonsor
   - name: Zarah Janda
     url: https://www.ruprecht.de/author/zarah-janda/
   paper:
-    summary: ""
+    summary: Publication Pressure and Fixed-Term Contracts- The Ich-binHanna Initiative Protests Working Conditions in Research. Voices from Institutes at Heidelberg University.
     url: https://www.ruprecht.de/2022/05/30/ich-bin-hanna/
   categories: ["FreeText"]
   tags: []
@@ -202,10 +208,11 @@ publications:
     date: 25 May 2022
     url: https://www.ruprecht.de/2022/05/25/wettrennen-ohne-sieger/
   authors:
+  - name: Pauline Seubert
   - name: Zarah Janda
     url: https://www.ruprecht.de/author/zarah-janda/
   paper:
-    summary: ""
+    summary: The Intergovernmental Panel on Climate Change’s new report reads like a dystopia. A conversation with two researchers about the 1.5-degree target and the future of the Earth.
     url: https://www.ruprecht.de/2022/05/25/wettrennen-ohne-sieger/
   categories: ["FreeText"]
   tags: []
@@ -219,7 +226,7 @@ publications:
   - name: Zarah Janda
     url: https://www.ruprecht.de/author/zarah-janda/
   paper:
-    summary: ""
+    summary: Last year hundreds of people met at the climate change conference in glasgow to discuss solutions for the ongoing climate crisis-but what is the true impact of this conference? And how do scientists in life sciences deal with the threat to the basis of their research? A conversation with Marta Rodríguez-Martínez, sustainability officer at EMBL in Heidelberg.
     url: https://www.ruprecht.de/2022/03/28/science-responsibility-and-the-climate-crisis/
   categories: ["FreeText"]
   tags: []
@@ -233,12 +240,12 @@ publications:
   - name: Zarah Janda
     url: https://www.ruprecht.de/author/zarah-janda/
   paper:
-    summary: ""
+    summary: The “Women’s Bodies” Exhibition at the Kurpfälzisches Museum in Heidelberg.
     url: https://www.ruprecht.de/2022/02/07/voyeurismus-und-body-positivity-von-duerer-bis-lizzo/
   categories: ["FreeText"]
   tags: []
 
-- title: "„Es ist vorbei“"
+- title: „Es ist vorbei“
   publishedIn:
     name: ruprecht
     date: 1 February 2022
@@ -247,21 +254,22 @@ publications:
   - name: Zarah Janda
     url: https://www.ruprecht.de/author/zarah-janda/
   paper:
-    summary: ""
+    summary: In the wake of the shooting spree, feelings of helplessness, uncertainty, and being overwhelmed prevail. How can we cope with what we’ve experienced?
     url: https://www.ruprecht.de/2022/02/01/es-ist-vorbei/
   categories: ["FreeText"]
   tags: []
 
-- title: "„Für die Zukunft will ich säen“"
+- title: „Für die Zukunft will ich säen“
   publishedIn:
     name: ruprecht
     date: 30 December 2021
     url: https://www.ruprecht.de/2021/12/30/fuer-die-zukunft-will-ich-saeen/
   authors:
+  - name: Daniela Rohleder
   - name: Zarah Janda
     url: https://www.ruprecht.de/author/zarah-janda/
   paper:
-    summary: ""
+    summary: Sophie Mereau led a life caught between self-assertion and external control—and she did so as early as the 18th century. The writer also left her mark in Heidelberg.
     url: https://www.ruprecht.de/2021/12/30/fuer-die-zukunft-will-ich-saeen/
   categories: ["FreeText"]
   tags: []
@@ -275,7 +283,7 @@ publications:
   - name: Zarah Janda
     url: https://www.ruprecht.de/author/zarah-janda/
   paper:
-    summary: ""
+    summary: Different approaches, same result. Portugal, Spain, and Denmark are showing Germany that vaccination campaigns can work, too.
     url: https://www.ruprecht.de/2021/12/16/herdentiere-und-individualistinnen/
   categories: ["FreeText"]
   tags: []
@@ -289,7 +297,7 @@ publications:
   - name: Zarah Janda
     url: https://www.ruprecht.de/author/zarah-janda/
   paper:
-    summary: ""
+    summary: In 1958, smallpox was rampant in Heidelberg. A conversation with medical historian Karen Nolte about this incident, its consequences, and how it all relates to COVID-19.
     url: https://www.ruprecht.de/2021/05/31/die-heidelberger-pockenepidemie/
   categories: ["FreeText"]
   tags: []
@@ -303,7 +311,7 @@ publications:
   - name: Zarah Janda
     url: https://www.ruprecht.de/author/zarah-janda/
   paper:
-    summary: ""
+    summary: In everyday discussions about the climate crisis and sustainability, we all too often find ourselves agreeing—only to contradict ourselves with a big “but.” What if we refused? What if we stopped falling into that same old trap?
     url: https://www.ruprecht.de/2021/05/19/vom-umdrehen-des-ja-aber/
   categories: ["FreeText"]
   tags: []
@@ -317,7 +325,7 @@ publications:
   - name: Zarah Janda
     url: https://www.ruprecht.de/author/zarah-janda/
   paper:
-    summary: ""
+    summary: The history of vaccinations is particularly closely linked to a disease that has been eradicated—smallpox. How vaccination got its name and what farms have to do with it.
     url: https://www.ruprecht.de/2021/03/05/von-bauern-kuehen-und-pocken/
   categories: ["FreeText"]
   tags: []
@@ -328,10 +336,13 @@ publications:
     date: 31 January 2021
     url: https://www.ruprecht.de/2021/01/31/nichts-mehr-auszusetzen/
   authors:
+  - name: Aaron Löffler
+  - name: Michelle Sieburg
+  - name: Clemens Pittrof 
   - name: Zarah Janda
     url: https://www.ruprecht.de/author/zarah-janda/
   paper:
-    summary: ""
+    summary: What do I want? More! I want to exercise more, read more, and work on myself more. And I want less. Eat fewer sweets, spend less time on social media, and have fewer self-doubts. Putting this into practice this year can only do me good and make me happier.
     url: https://www.ruprecht.de/2021/01/31/nichts-mehr-auszusetzen/
   categories: ["FreeText"]
   tags: []
@@ -345,7 +356,7 @@ publications:
   - name: Zarah Janda
     url: https://www.ruprecht.de/author/zarah-janda/
   paper:
-    summary: ""
+    summary: To survive in a changing world, species adapt. From an evolutionary perspective, humanity is the world champion at this. However, we no longer seem willing to make use of this ability, which sets us apart as a species. On the contrary, we actively reject it.
     url: https://www.ruprecht.de/2021/01/26/um-denken-in-zeiten-einer-pandemie/
   categories: ["FreeText"]
   tags: []
@@ -359,7 +370,7 @@ publications:
   - name: Zarah Janda
     url: https://www.ruprecht.de/author/zarah-janda/
   paper:
-    summary: ""
+    summary: Next-Generation Vaccines and What They Can Do.
     url: https://www.ruprecht.de/2021/01/26/wie-ist-das-jetzt-mit-mrna-impfstoffen/
   categories: ["FreeText"]
   tags: []  

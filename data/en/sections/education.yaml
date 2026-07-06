@@ -28,25 +28,6 @@ degrees:
       content: Examination of plant species diversity on multisple soil functions within a controlled greenhouse experiment simulating a water-stress gradient.
     - name: Work Package 3 - Intra- and Inter-annual soil multistability
       content: Study of plant species richness effects on the seasonal stability of multisple soil functions within the Jena Experiment.
-- name: Interdisciplinary Marsilius Studies
-  icon: fa-graduation-cap
-  timeframe: 2020-2023
-  institution:
-    name: Heidelberg University
-    url: "https://www.marsilius-kolleg.uni-heidelberg.de/en/study/marsilius-studies"
-    #logo: /images/education/college.png # Path of the logo image
-    #darkLogo: /images/education/college-dark.png #(optional), Can optionally show a different logo for dark theme
-  customSections: #(optional)
-    - name: Bridge Seminar
-      content: Rethinking Environment
-    - name: Bridge Seminar
-      content: Body Environment
-    - name: Bridge Seminar
-      content: From Models to Politic- The Role of Simulations in Climate Change Decision Making
-    - name: Bridge Seminar
-      content: Innovation for Future? Potentialand Pitfalls of the Circular Bioeconomy  
-    - name: Colloquium
-      content: Model organism human - human tissue samples in biomedical research    
 - name: Master Molecular Biosciences, Major Molecular and Cellular Biology
   icon: fa-graduation-cap
   timeframe: 2020-2023
@@ -71,6 +52,7 @@ degrees:
   extracurricularActivities: #(optional)
   - Student Newspaper 'ruprecht' - Freelance editor
   - Event organisation 'Sustainability in Science' - Member of the organising team of the student symposium in the funding and speaker resort.
+  - Interdisciplinary Marsilius Studies - Additionally to my Master I enrolled in the Marsilius Studies and completed the seminars Rethinking Environment, Body Environments, From Models to Politic- The Role of Simulations in Climate Change Decision Making and Innovation for Future? Potentialand Pitfalls of the Circular Bioeconomy. Furthermore, I gave a colloquium connected to my master thesis topid Model organism human - human tissue samples in biomedical research.
 - name: Bachelor Applied Biology
   icon: fa-graduation-cap
   timeframe: 2016-2020

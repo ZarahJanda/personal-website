@@ -62,7 +62,7 @@ degrees:
     #logo: /images/education/college.png # Path of the logo image
     #darkLogo: /images/education/college-dark.png #(optional), Can optionally show a different logo for dark theme
   grade:
-    scale: Bachelor of Science (1.2)
+    scale: Bachelor of Science (2.0)
     achieved: 192
     outOf: 180 CP
   customSections: #(optional)

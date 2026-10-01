@@ -3,6 +3,18 @@ baseURL: 'https://zarahjanda.github.io/personal-website/'
 languageCode: 'en-us'
 title: 'Zarah Janda'
 
+# Multilingual configuration
+defaultContentLanguage: en
+languages:
+  en:
+    languageName: English
+    weight: 1
+    title: 'Zarah Janda'
+  de:
+    languageName: Deutsch
+    weight: 2
+    title: 'Zarah Janda'
+
 # Development server configuration
 server:
   headers:

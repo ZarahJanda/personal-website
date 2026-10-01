@@ -1,0 +1,95 @@
+# Abschnittsinformationen
+section:
+  name: Ausbildung
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+degrees:
+- name: Promotion im Jena-Experiment und assoziierte Promotion in ECO-N
+  icon: fa-university
+  timeframe: seit 2024
+  institution:
+    name: Universität Leipzig
+    url: "https://www.lw.uni-leipzig.de/en"
+  extracurricularActivities: #(optional)
+  - Hauptkoordinatorin des Symposiums „Science TBD“ – Organisation eines interdisziplinären Symposiums am iDiv im März 2026
+  - CO2e-Emissionsbilanz des Promotionsprojekts – Berechnung und Analyse der gesamten CO2e-Emissionen, die während meiner Promotion entstehen, einschließlich Reisen, Feldarbeit und Laboraktivitäten. Die Ergebnisse werden zusammen mit meiner Dissertation veröffentlicht, um die Umweltwirkung meiner Forschung zu quantifizieren und Strategien zur Emissionsreduktion vorzuschlagen.
+  - Kurs Nachhaltige Entwicklung – Abschluss der Vorlesungsreihe 2024 und Gastvortrag im Oktober 2025 zum Thema „Nachhaltigkeit und One Health“ mit Fokus auf die Zusammenhänge zwischen ökologischer Integrität, menschlicher Gesundheit und nachhaltigen Praktiken.
+  - iDiv-Promovierendenvertreterin – Koordination der Promovierendentreffen, Verhaltenskodex, Betreuung am iDiv
+  - Jena-Experiment-Promovierendenvertreterin – Koordination der Promovierendentreffen, Kommunikation mit den Projektleitenden
+  customSections: #(optional)
+    - name: Arbeitspaket 1 – Langfristige Boden-Multistabilität
+      content: Untersuchung der langfristigen Effekte des Pflanzenartenreichtums auf die mikrobielle Biomasse in einem Grünlandexperiment. Fokus auf langfristige Stabilität, Resistenz und Erholung nach Klimaextremen.
+    - name: Arbeitspaket 2 – Boden-Multiresistenz und Multierholung entlang eines Stressgradienten
+      content: Untersuchung des Effekts der Pflanzenartenvielfalt auf mehrere Bodenfunktionen in einem kontrollierten Gewächshausexperiment, das einen Wasserstress-Gradienten simuliert.
+    - name: Arbeitspaket 3 – Intra- und interannuelle Boden-Multistabilität
+      content: Untersuchung der Effekte des Pflanzenartenreichtums auf die saisonale Stabilität mehrerer Bodenfunktionen im Jena-Experiment.
+- name: Master Molekulare Biowissenschaften, Schwerpunkt Molekular- und Zellbiologie
+  icon: fa-graduation-cap
+  timeframe: 2020-2023
+  institution:
+    name: Universität Heidelberg
+    url: "https://www.uni-heidelberg.de/en/study/all-subjects/molecular-biosciences/molecular-biosciences-master"
+    #logo: /images/education/college.png # Path of the logo image
+    #darkLogo: /images/education/college-dark.png #(optional), Can optionally show a different logo for dark theme
+  grade:
+    scale: Master of Science (1,2)
+    achieved: 120
+    outOf: 120 LP
+  customSections: #(optional)
+    - name: Praktikum am Center for Integrative Infectious Diseases, Heidelberg, Deutschland
+      content: Elektronenmikroskopie des Ookineten von Plasmodium falciparum.
+    - name: Praktikum am Institut Imagine, Paris, Frankreich
+      content: Die genetische Grundlage der Anfälligkeit für Infektionskrankheiten – molekulare Phänotypisierung von Drillingen mit derselben Mutation.
+    - name: Praktikum am Center for Organismal Studies, Heidelberg, Deutschland
+      content: Untersuchung der Auswirkungen konventioneller und ökologischer Landwirtschaft auf die Biodiversität – Analyse von Fragebögen und Felddaten von Ackerflächen in Baden-Württemberg.
+    - name: Masterarbeit am Institut für Humangenetik, Universitätsklinikum Heidelberg, Heidelberg, Deutschland
+      content: Etablierung eines zweiteiligen Workflows zur Beurteilung molekularer Anomalien bei Patient:innen mit chronisch-entzündlichen Darmerkrankungen mit Fokus auf das enterische Nervensystem, das Immunsystem und deren Zusammenspiel.
+  extracurricularActivities: #(optional)
+  - Studierendenzeitung „ruprecht“ – freie Redakteurin
+  - Veranstaltungsorganisation „Sustainability in Science“ – Mitglied des Organisationsteams des studentischen Symposiums im Ressort Förderung und Referierende.
+  - Interdisziplinäre Marsilius-Studien – Zusätzlich zu meinem Master habe ich mich für die Marsilius-Studien eingeschrieben und die Seminare „Rethinking Environment“, „Body Environments“, „From Models to Politics – The Role of Simulations in Climate Change Decision Making“ und „Innovation for Future? Potential and Pitfalls of the Circular Bioeconomy“ absolviert. Außerdem hielt ich ein Kolloquium im Zusammenhang mit meinem Masterarbeitsthema „Modellorganismus Mensch – menschliche Gewebeproben in der biomedizinischen Forschung“.
+- name: Bachelor Angewandte Biologie
+  icon: fa-graduation-cap
+  timeframe: 2016-2020
+  institution:
+    name: KIT - Karlsruher Institut für Technologie
+    url: "https://biologie.chem-bio.kit.edu/english/57.php"
+    #logo: /images/education/college.png # Path of the logo image
+    #darkLogo: /images/education/college-dark.png #(optional), Can optionally show a different logo for dark theme
+  grade:
+    scale: Bachelor of Science (2,0)
+    achieved: 192
+    outOf: 180 LP
+  customSections: #(optional)
+    - name: Praktikum am Max-Planck-Institut für Marine Mikrobiologie, Bremen, Deutschland
+      content: Saisonale Abundanzveränderungen bakterieller Schlüsseltaxa, die an der Polysaccharid-Aufnahme vor Helgoland beteiligt sind.
+    - name: Bachelorarbeit am Max-Rubner-Institut für Ernährung, Karlsruhe, Deutschland
+      content: Quantifizierung des menschlichen Darmmikrobioms mithilfe von Spike-in-Bakterien – eine vergleichende Analyse von Ballaststoffaufnahme und biologischem Geschlecht.
+  extracurricularActivities: #(optional)
+  - Veranstaltungsorganisation „The Future of Bioeconomy“ – Mitglied des Organisationsteams und Moderation der Podiumsdiskussion
+  - Theatergruppe GeistSozTheater – Ein Sommernachtstraum, Fahrenheit 451
+  - Theatergruppe PhysikerTheater – The Wonderful World of Dissocia
+- name: Bachelor Chemische Biologie
+  icon: fa-microscope
+  timeframe: 2014-2015
+  institution:
+    name: KIT - Karlsruher Institut für Technologie
+    url: "https://www.sle.kit.edu/english/vorstudium/bachelor-chemical-biology.php"
+    #logo: /images/education/college.png # Path of the logo image
+    #darkLogo: /images/education/college-dark.png #(optional), Can optionally show a different logo for dark theme
+  extracurricularActivities: #(optional)
+  - Theatergruppe UniTheater – Rope
+- name: Abitur
+  icon: fa-school
+  timeframe: 2004-2013
+  institution:
+    name: Albert-Schweitzer-Gymnasium Kaiserslautern
+    url: "http://www.asgkl.de/"
+  extracurricularActivities: #(optional)
+  - Theatergruppe
+  - Schulchor

@@ -1,0 +1,44 @@
+# Abschnittsinformationen
+section:
+  name: Projekte
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: Alle
+  filter: "all"
+- name: Akademisch
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+
+# deine Projekte
+projects:
+- name: Science - To Be Determined
+  logo: /images/sections/projects/ScienceTBD.jpg
+  role: Hauptkoordinatorin
+  timeline: "März 2025 - März 2026"
+  url: "https://conference.idiv.de/event/4/overview"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Organisation eines interdisziplinären Symposiums zu Open Science.
+  tags: ["academic", "open science", "science fraud"]
+- name: Best Research Environment Prize
+  #logo: /images/sections/projects/ScienceTBD.jpg
+  role: Jurymitglied
+  timeline: "Jan. 2026 - Juni 2026"
+  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://www.diejungeakademie.de/en/projekte/best-research-environment-award"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Im Jahr zuvor gewann meine Forschungsgruppe den Preis für das beste Forschungsumfeld. Für die nächste Runde wurde ich gefragt, ob ich der Jury beitreten möchte – und das wollte ich! Zu meinen Aufgaben gehörte die Bewertung der Bewerbungen hinsichtlich Wirkung, Neuheit und Innovation.
+  tags: ["academic", "research", "prize"]
+- name: FirstGen Academics Network
+  #logo: /images/sections/projects/ScienceTBD.jpg
+  role: Jurymitglied
+  timeline: "Jan. 2026 - Juni 2026"
+  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://www.mathcs.uni-leipzig.de/en/newsdetail-3/event/lunchtreffen-firstgen-academics-network-20260806"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Für den Women in Science Day 2026 habe ich gemeinsam mit drei Kolleginnen einen Workshop darüber organisiert, als erste Person in der Familie eine Universität zu besuchen. Aus diesem Workshop heraus gründeten wir an der Universität Leipzig ein Netzwerk mit einem monatlichen Lunch-Treffen. Wir planen, dies um Workshops und Seminare zu diesem wichtigen, aber unterrepräsentierten Thema zu erweitern.
+  tags: ["academic", "FirstGen Academics", "network"]

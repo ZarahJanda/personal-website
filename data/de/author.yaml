@@ -1,0 +1,15 @@
+# einige Informationen über dich
+name: "Zarah Janda"
+# Kontaktinformationen – sie werden im Footer verwendet
+contactInfo:
+  email: "zarah.janda@idiv.de"
+  github: ZarahJanda
+
+image: "images/ZJ_avatar.png"
+
+# eine kurze Zusammenfassung dessen, was du tust
+summary:
+  - Ich bin Biologin
+  - Ich bin Erstakademikerin
+  - Ich bin eine Frau in der Wissenschaft
+  - Ich bin Autorin

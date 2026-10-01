@@ -1,0 +1,91 @@
+section:
+  name: Berufserfahrung
+  id: experiences # url id/slug of section *Required*
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+# deine Erfahrungen
+experiences:
+- company:
+    name: Deutsches Zentrum für integrative Biodiversitätsforschung Halle-Jena-Leipzig – iDiv
+    url: "https://www.idiv.de/"
+    location: Leipzig, Deutschland
+    #logo: /images/experiences/company.png
+    #darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview: Das Deutsche Zentrum für integrative Biodiversitätsforschung – iDiv widmet sich dem Verständnis der Vielfalt des Lebens auf der Erde. Wir messen und beobachten, wie sich diese Vielfalt verändert und wie sie das Funktionieren von Ökosystemen und deren Leistungen beeinflusst.
+  positions:
+  - designation: Doktorandin
+    start: April 2024
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Feldarbeit – Entnahme von Bodenproben auf der Versuchsfläche des Jena-Experiments
+    - Labormessungen – Analyse von Bodenproben, z. B. Anteil wasserstabiler Aggregate, mikrobielle Biomasse des Bodens, Basalatmung und Aktivität hydrolytischer Enzyme
+    - Datenanalyse – statistische Auswertung der Messungen, um den Effekt des Pflanzenartenreichtums auf verschiedene Kenngrößen zu ermitteln
+- company:
+    name: Klimaschutzmanagement
+    url: "https://www.uni-heidelberg.de/en/employees-in-science-administration-and-technical-services/service-a-z/project-office-energy-climate-protection-sustainability/climate-protection-concept"
+    location: Universität Heidelberg
+    #logo: /images/experiences/company.png
+    #darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview: Die Universität Heidelberg unterstützt die klimapolitischen Aktivitäten des Landes Baden-Württemberg und verfolgt das Ziel, bis 2040 durch schrittweise Reduktionsmaßnahmen Netto-Treibhausgasneutralität zu erreichen.
+  positions:
+  - designation: Studentische Hilfskraft
+    start: Okt. 2022
+    end: Feb. 2024
+    responsibilities:
+    - Entwicklung eines Konzepts „Nachhaltigkeit der Wissenschaft“
+    - Mitarbeit bei der Erstellung der Treibhausgasbilanz
+    - Entwicklung einer Website mit R
+- company:
+    name: Nationales Centrum für Tumorerkrankungen
+    url: "https://www.nct-heidelberg.de/en/index.html"
+    location: Heidelberg
+    #logo: /images/experiences/company.png
+    #darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview: Das Nationale Centrum für Tumorerkrankungen (NCT) Heidelberg ist eine gemeinsame Einrichtung des Deutschen Krebsforschungszentrums (DKFZ), des Universitätsklinikums Heidelberg (UKHD), der Medizinischen Fakultät Heidelberg der Universität Heidelberg und der Thoraxklinik Heidelberg. Die Deutsche Krebshilfe fördert das NCT als Onkologisches Spitzenzentrum.
+  positions:
+  - designation: Studentische Hilfskraft
+    start: Okt. 2021
+    end: Sep. 2022
+    responsibilities:
+    - Fundraising für die Spendenaufrufe gegen Krebs
+    - Kommunikation mit Förderern und Spendenden
+    - Organisation des NCT-Laufs
+- company:
+    name: Selbstlernzentrum des Distance and Independent Studies Center
+    url: "https://fernstudium.rptu.de/en"
+    location: Technische Universität Kaiserslautern
+    #logo: /images/experiences/company.png
+    #darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview: Das Distance and Independent Studies Center bietet mehr als 20 Fernstudiengänge mit Master- und Zertifikatsabschluss an, die eine berufsbegleitende Weiterbildung ermöglichen – in den meisten Fällen sogar ohne ersten Hochschulabschluss.
+  positions:
+  - designation: Studentische Hilfskraft
+    start: Juli 2020
+    end: Dez. 2020
+    responsibilities:
+    - Unterstützung bei Lehrtätigkeiten und der Organisation der Diemersteiner Selbstlerntage
+    - Erstellung von (digitalen) Lehrmaterialien
+    - Zusammenfassung fachfremder Literatur
+- company:
+    name: Nachhilfe für Schüler:innen
+    #url: "https://fernstudium.rptu.de/en"
+    location: Kaiserslautern/Karlsruhe
+    #logo: /images/experiences/company.png
+    #darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview:
+  positions:
+  - designation: Nachhilfelehrerin
+    start: 2009
+    end:  2020
+    responsibilities:
+    - Unterstützung von Schüler:innen aller Klassenstufen
+    - Schwerpunkte Englisch, Mathematik, Biologie, Chemie und Deutsch
